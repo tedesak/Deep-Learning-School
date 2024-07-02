@@ -1,5 +1,5 @@
 # Deep-Learning-School
-Deep Learning School course materials and hometasks\
-Lecture materials in prj catalogs\
-Hometasks in hw catalogs\
-Other my projects in work_prj
+Deep Learning School course materials with hometasks and other my projects\
+You can find CV and NLP sections\
+Lecture materials in course_material catalog\
+Hometasks and my projects in my_projects catalog
